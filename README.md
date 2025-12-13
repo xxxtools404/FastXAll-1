@@ -11,4 +11,4 @@ cd FastXAll-1
 
 ls
 
-python xpamsharex.py
+python xpamxxx.py
