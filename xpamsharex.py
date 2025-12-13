@@ -172,7 +172,8 @@ def banner():
     print(color("Owner : Net", '96', bold=True))  # Cyan bold
     print(color("Facebook: https://facebook.com/net", '96', bold=True))  # Cyan bold
     print(color("GitHub  : https://github.com/xxxtools404", '96', bold=True))
-print (color("Status : Paid", '96', bold=True)) # Cyan bold
+    print (color("Status : Paid", '96', bold=True)) 
+# Cyan bold
     print(color("-" * 50, '90'))  # Grey line
 
 # Function to add cookies to database manually
