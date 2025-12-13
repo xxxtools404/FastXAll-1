@@ -161,16 +161,18 @@ def color(text, color_code, bold=False):
 def banner():
     os.system("clear")
     print(color("""
-\033[91m __     \033[92m_______ \033[93m____  \033[94m_   _ \033[0m
-\033[91m \ \   \033[92m/ / ____\033[93m|  _ \ \033[94m| \ | |\033[0m
-\033[91m  \ \ \033[92m/ /|  _|\033[93m | |_) \033[94m|  \| |\033[0m
-\033[91m   \ V \033[92m/ | |__\033[93m__|  _ <\033[94m| |\  |\033[0m
-\033[91m    \_\033[92m/  |_____\033[93m|_| \_\\033[94m_| \_|\033[0m
+\033[91m██╗  ██╗\033[92m██████╗ \033[93m █████╗ \033[94m███╗   ███╗\033[0m
+\033[91m╚██╗██╔╝\033[92m██╔══██╗\033[93m██╔══██╗\033[94m████╗ ████║\033[0m
+\033[91m ╚███╔╝ \033[92m██████╔╝\033[93m███████║\033[94m██╔████╔██║\033[0m
+\033[91m ██╔██╗ \033[92m██╔═══╝ \033[93m██╔══██║\033[94m██║╚██╔╝██║\033[0m
+\033[91m██╔╝ ██╗\033[92m██║     \033[93m██║  ██║\033[94m██║ ╚═╝ ██║\033[0m
+\033[91m╚═╝  ╚═╝\033[92m╚═╝     \033[93m╚═╝  ╚═╝\033[94m╚═╝     ╚═╝\033[0m
 """, '94'))  # Vibrant multi-colored logo with proper color assignments
 
-    print(color("Author  : vrax", '96', bold=True))  # Cyan bold
-    print(color("Facebook: https://facebook.com/revn.19", '96', bold=True))  # Cyan bold
-    print(color("GitHub  : https://github.com/vraxyxx", '96', bold=True))  # Cyan bold
+    print(color("Owner : Net", '96', bold=True))  # Cyan bold
+    print(color("Facebook: https://facebook.com/net", '96', bold=True))  # Cyan bold
+    print(color("GitHub  : https://github.com/xxxtools404", '96', bold=True))
+print (color("Status : Paid", '96', bold=True)) # Cyan bold
     print(color("-" * 50, '90'))  # Grey line
 
 # Function to add cookies to database manually
