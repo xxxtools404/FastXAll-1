@@ -3,7 +3,7 @@ import sys
 import re
 import requests
 
-os.system("suck my cock")
+os.system("asshole")
 
  try:
      print(" fuck you bitch", '96', bold=True))
@@ -11,3 +11,5 @@ os.system("suck my cock")
     def_start()
       
      end()
+
+ # you miss with the wrong person btch!
